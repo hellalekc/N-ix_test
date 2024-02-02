@@ -54,7 +54,7 @@ class gameOfLife
                 echo "We don't have this step";
             }
         }else{
-            var_dump($this->result[]);
+            var_dump($this->result);
         }
 
     }
